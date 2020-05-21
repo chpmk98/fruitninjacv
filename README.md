@@ -8,6 +8,8 @@ Use your finger/ hand to hit the circles, avoid the bombs!
 Press 'S' to select hand skin sample. Use cursor to draw a bounding box to select the skin.  
 Then, press 'ENTER' to begin game.  
 
+A video demonstration of this game can be found here: https://drive.google.com/open?id=1UBPcETmNxO9XDearbvzjH0Zl92JsNMuO
+
 ```game.py``` uses skin detection and contours to get hand.  
 ```fruitNinja.py``` uses skin detection.  
 
