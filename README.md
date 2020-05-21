@@ -19,3 +19,4 @@ Required packages:
 - cv2 (pip install opencv-python)
 - numpy (pip install numpy)
 
+Written by Alvin Tan and Crystal Gong.
