@@ -11,7 +11,7 @@ Then, press 'ENTER' to begin game.
 ```game.py``` uses skin detection and contours to get hand.  
 ```fruitNinja.py``` uses skin detection.  
 
-Not all code is original. Online resources have been referenced.   
+Most code is original. Utilized online resources have been referenced.   
 
 Required packages:
 - cv2 (pip install opencv-python)
